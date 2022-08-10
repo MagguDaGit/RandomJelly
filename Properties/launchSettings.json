@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RandomJelly_Classes": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
