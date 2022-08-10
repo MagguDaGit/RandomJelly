@@ -1,7 +1,7 @@
 # RandomJelly
 Makes a random number stream to file based on live jellyfish. 
 This is a project i started just out of curiosity and wanting to learn stuff like: webcrawling, bitmaps, theory behind random nuber generators 
-### Shout ut to monterey bay aquarium for having awesome livestreams of wildlife to inspire this little project!
+### Shout to monterey bay aquarium for having awesome livestreams of wildlife to inspire this little project!
 
 ## Disclaimers
 
