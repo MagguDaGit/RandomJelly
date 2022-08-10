@@ -8,7 +8,7 @@ This is a project i started just out of curiosity and wanting to learn stuff lik
 ### This project is not yet available for easy distribution or use 
 
 ### This is not an efficient way to generate random numbers, api methods are far simpler 
-#### Most of my code is not efficient, bitmap.getPixel(x,y) for example kan be made more efficient.
+#### Most of my code is not efficient, bitmap.getPixel(x,y) for example can be made more efficient.
 ### Most code, comments etc. Is written in a mix of norwegian/english/nonsense (sorry)
 
 ### This is still technically a Pseudorandom number generator
